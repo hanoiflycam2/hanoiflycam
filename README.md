@@ -1,2 +1,0 @@
-# hanoiflycam
-Hà Nội Flycam
